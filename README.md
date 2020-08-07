@@ -3,6 +3,6 @@ Applied Machine learning model on Cardekho dataset from Kaggle to predict the be
 
 Used HTML, CSS, Bootstrap & JS for the frontend and Flask at the backend.
 
-Deployed on Herokuapp.
+Deployed on Herokuapp
 
 Check it at [Car Price Predictor](https://sell-old-cars.herokuapp.com/)
